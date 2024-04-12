@@ -1,3 +1,8 @@
+Archival notice
+===============
+
+**Tchap has since migrated to Synapse mainline + modules. This repository is kept for archival purposes.**
+
 =========================================================================
 Synapse |support| |development| |documentation| |license| |pypi| |python|
 =========================================================================
